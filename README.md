@@ -37,8 +37,6 @@ NPM, Babel, Bowcat, HTTP-server, Jade, Node-Sass, Nodemon, Firebase, and GitHub
 
 ````bower install````
 
-````cd firebase-auth-demo/````
-
 ````http-server -p 8109````
 
 *Open you browser and navigate to:*
