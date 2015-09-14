@@ -1,9 +1,9 @@
 {
   "name": "firebase-auth-demo",
   "version": "1.0.0",
-  "homepage": "https://github.com/NSS-Cohort-9/firebase-auth-demo",
+  "homepage": "(https://github.com/ldmcdaniel/firebase-auth-demo)",
   "authors": [
-    "Scott Humphries <scott@sscotth.io>"
+    "Lucas McDaniel <ldmcdaniel@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
@@ -12,5 +12,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "firebase": "~2.2.4"
+  }
 }
